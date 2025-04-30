@@ -351,3 +351,5 @@ MigrationBackup/
 
 # Volume data
 db/
+
+.idea
